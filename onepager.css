@@ -1,0 +1,46 @@
+#header{
+    font-family:Arial;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 8px;
+    width: 900px;
+    height: 100px;
+    background: lightsteelblue
+  }
+
+  #fotoik{
+      float: left;
+      margin-top: 19px;
+  }
+
+  #iktekst{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-align: left;
+    margin-left: 360px;
+    margin-top: 10px;
+  }
+
+  #wathebikgeleerd{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 900px;
+    height: 150px;
+    background: lavenderblush
+  }
+ 
+  #watwiliknogleren{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 900px;
+    height: 150px;
+    background: lightgoldenrodyellow
+  }
+
+  #gif{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+  
+  }
